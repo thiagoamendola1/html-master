@@ -80,9 +80,8 @@ $olhovivo->validaChave();
 			<div class="mdl-logo">Grupo Info</div>
 				<ul class="mdl-mini-footer__link-list">
 				<li>EACH, Solulções Web - 2018</li>
-				<li>Matheus O. Lêu, 8802621 - </li>
-				<li>Georgios P. Koutantos, 9277214 -</li>
-				<li>Lucas Manoel Magueta, 9277385</li>
+				<li>Thiago dos Santos Amendola, 9390340- </li>
+				<li>Felipe Appel Romero, 8519204</li>
 				</ul>
 			</div>
 		</footer>

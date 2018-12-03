@@ -1,0 +1,12 @@
+{
+    "otoken":"209bdb33469dbea33113600e6c6d3a719c6fa0f6df1aa728265a582f3a5f383b",
+    "ourl" : "http://api.olhovivo.sptrans.com.br/v2.1",
+    "gtoken" : "AIzaSyAmABWG72RYSfAfmHy6kUVzbhXYcqHR0Qg",
+    "gurl" : "https://maps.googleapis.com/maps/api/js?key=",
+    "host": "localhost",
+    "user": "root",
+    "pass": "",
+    "db": "bustops",
+    "busIcon": "https://i.imgur.com/m9ROUKm.png",
+    "stopIcon": "https://maps.google.com/mapfiles/kml/shapes/parking_lot_maps.png"
+}
